@@ -18,4 +18,4 @@ The application is composed of the following microservices:
 - **Programming Language**: Java
 - **Framework**: Spring Boot
 - **Database**: MySQL
-- **Frontend**: HTML, CSS, JavaScript
+
